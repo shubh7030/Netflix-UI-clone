@@ -1,2 +1,3 @@
 # Netflix-UI-clone
-This is clone of Netflix UI
+This is a clone of Netflix UI
+Created by using HTML and CSS
